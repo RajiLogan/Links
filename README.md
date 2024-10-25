@@ -2,8 +2,13 @@ Number row Characters
 
 !
 #
+
 %
+
 &
-^ 
+
+^
+
 (
+
 )
