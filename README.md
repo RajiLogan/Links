@@ -1,1 +1,9 @@
-# Links
+Number row Characters
+
+!
+#
+%
+&
+^ 
+(
+)
